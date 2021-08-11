@@ -1,0 +1,7 @@
+apiVersion: db.sbcp.io/v1
+kind: Kafka
+metadata:
+  name: example-kafka
+spec:
+  # Add fields here
+  size: 3
